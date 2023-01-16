@@ -3,3 +3,7 @@ __winc_id__ = '62311a1767294e058dc13c953e8690a4'
 __human_name__ = 'casting'
 
 # Add your code after this line
+leek_price = 2
+leek_price = str(leek_price)
+
+print ("Leek is " + leek_price + " euro per kilo.")
