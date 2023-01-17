@@ -6,14 +6,15 @@ __human_name__ = 'casting'
 leek_price = 2
 leek_price = str(leek_price)
 
-leek_string = ("Leek is " + leek_price + " euro per kilo.")
-print (leek_string)
+print ("Leek is " + leek_price + " euro per kilo.")
 
 
-#Use find and slicing to extract the number from this string.
-print(leek_string[8:9]) #24
+#We've got an order of 4 leeks
 
-#Cast it into an integer.
-int_leek_price = int(leek_price)
+leek_4 = (int(leek_price) *4)
 
-#Use this and leek_price to compute the sum total and store it in sum_total. Print out the value for this variable.
+
+
+
+
+
