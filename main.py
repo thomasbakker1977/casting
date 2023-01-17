@@ -10,8 +10,10 @@ print ("Leek is " + leek_price + " euro per kilo.")
 
 
 #We've got an order of 4 leeks
-
 leek_4 = (int(leek_price) *4)
+
+#Use find and slicing to extract the number from this string.
+leek4_find.find()
 
 
 
